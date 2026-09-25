@@ -28,9 +28,9 @@ suppression à tout moment (voir section 5).
 
 5. COMMENT SUPPRIMER TES DONNÉES
 Pour demander la suppression complète de tes données, contacte l'administrateur du bot 
-directement sur Discord : [TON PSEUDO DISCORD]. Tes données seront supprimées définitivement 
+directement sur Discord : 588468904431583232 @costy91 . Tes données seront supprimées définitivement 
 de la base dans un délai raisonnable après ta demande.
 
 6. CONTACT
 Pour toute question concernant cette politique de confidentialité, contacte : 
-[TON PSEUDO DISCORD ou une adresse mail si tu en as une]
+[588468904431583232 @costy91 ou bayard.costy@gmail.com ]
