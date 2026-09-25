@@ -33,4 +33,4 @@ de la base dans un délai raisonnable après ta demande.
 
 6. CONTACT
 Pour toute question concernant cette politique de confidentialité, contacte : 
-[588468904431583232 @costy91 ou bayard.costy@gmail.com ]
+[588468904431583232 @costy91 ]
